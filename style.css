@@ -1,0 +1,166 @@
+{
+    text-decoration: none
+}
+
+.navbar{
+   width: 100%;
+   background: rgb(54, 255, 235);
+   overflow: auto;
+
+}
+
+.logo a{
+    margin:0;
+    padding:0;
+    background: rgb(255, 255, 255);
+ 
+}
+.logo img{
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 10px;
+
+}
+nav a{
+    width:100px;
+    display:block;
+    padding:20px 15px;
+    text-decoration:none;
+}
+li a{
+    color:rgb(0, 0, 0); 
+    font-size: 18px; 
+    font-weight: bold; 
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    float: left;
+    text-decoration:underline
+}
+button a{
+    color:rgb(0, 0, 0); background-color: rgb(255, 255, 255); margin-left: 10px; border-radius: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; margin-top:15px;
+    text-decoration: underline;
+}
+body{
+   background-image:url("pencil.jpg");
+   background-size: cover;
+}
+
+iframe{
+    width: 80%;
+    height:340px;
+    display: flex;
+    margin-left: 100px;
+}
+
+ul{
+  padding: 0;
+  margin: 0 0 0 150px;
+  list-style:none;  
+}
+
+.featurediv{
+        font-family: Verdana, Geneva, Tahoma, sans-serif; 
+        width:300px;
+        height: 50px;
+        margin: 5px auto;
+        background: rgb(192, 255, 234);
+        text-align: center;
+        
+    
+    }
+
+    .featurebar{
+        width: 100%;
+        background-image: url("slime.jpg");
+        overflow: auto;
+        background-size:cover
+     
+     }
+
+    .searchdiv{
+    width: 100%;
+    background: rgb(238, 172, 222);
+    overflow: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    font-size: 10px;
+    text-indent: 10px;
+    }
+
+
+.whywematter2{
+    float:left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    font-size: 10px;
+    font-weight: bold;
+    margin: 10px auto;
+    width:33.33%;
+    background-color: beige;
+    
+}
+
+.jumpintosummer{
+    float:left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    font-size: 10px;
+    font-weight: bold;
+    margin: 10px auto; 
+    width: 33.33%;
+    background-color: rgb(197, 197, 197);  
+}
+
+.backtoschool{
+    float:right;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    font-size: 10px;
+    font-weight: bold;
+    margin: 10px auto;   
+    width:33.33%;
+    background-color: beige;
+}
+
+footer {
+  
+  left: 0;
+  bottom: 5;
+  width: 100%;
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 10px;
+    
+  }
+
+  ul.about li a{
+    float:left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    font-size: 10px;
+    font-weight: bold;
+    margin: 10px auto;
+    width:33.33%;
+    background-color: white;
+    list-style: none;
+    
+}
+
+ul.support li a{
+    float:left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    font-size: 10px;
+    font-weight: bold;
+    margin: 10px auto; 
+    width: 33.33%;
+    background-color: white;
+    list-style: none;
+}
+
+ul.keepintouch li a{
+    float:right;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    font-size: 10px;
+    font-weight: bold;
+    margin: 10px auto; 
+    width: 33.33%;
+    background-color: white;
+    list-style: none;
+}
